@@ -1,6 +1,6 @@
 # Projeto E6
 
-![Gif GitHub](https://octodex.github.com/images/NUX_Octodex.gif)
+![Gif GitHub](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 Esse projeto tem como objetivo aplicar alguns conhecimentos de ECMAScript 6 adiquiridos na aula da semana 13 da Reprograma.
 
